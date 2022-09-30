@@ -10,6 +10,11 @@
 # CSS Font families used:
 
 * Roboto
+# Resources:
+## background image
+
+* URL: https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png
+
 
 
 ![chat page](https://user-images.githubusercontent.com/99186533/193234335-8142574c-762a-4da0-b07c-00ef92accf6e.png)
