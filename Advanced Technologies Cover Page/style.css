@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 150vh;
+    background-size: cover;
+   
+}
+
+.Card {
+ 
+    background-color: #ffffff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 30px;
+}
+
+.heading {
+    margin: 10px;
+    color: #5752ab;
+    font-family: "Bree Serif";
+    font-size: 35px;
+}
+
+.paragraph {
+    margin: 15px;
+    color: #323f4b;
+    font-family: "Roboto";
+
+}
+
+.common {
+    height: 40px;
+    width: 180px;
+    border-radius: 10px;
+    border-color: #d7dfe9;
+    border-width: 1px;
+    margin: 5px;
+}
+
+.learn-more {
+    background-color: #ffffff;
+}
+
+.save-draft {
+    background-color: #5650A9;
+    text-align: center;
+}
