@@ -33,4 +33,5 @@ https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png
                                                               
                               
                                                               Preview
-   
+   ![Advance Technologies Preview](https://user-images.githubusercontent.com/99186533/194715355-aed74cec-2724-453e-8cb4-662971dad798.png)
+
