@@ -1,4 +1,4 @@
-                                                            About
+                                                                About
 
 # CSS Colors used:
 ## Background Colour Hex Code values:
@@ -8,7 +8,8 @@
 ### For buttons: 
 * #5752ab
 * #ffffff
-### For button:
+## Border Colour Hex Code Values:
+### For Button:
 * #d7dfe9
 ### For bottom section: 
 * #e6f6ff
@@ -34,4 +35,3 @@ https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png
                               
                                                               Preview
    ![Advance Technologies Preview](https://user-images.githubusercontent.com/99186533/194715355-aed74cec-2724-453e-8cb4-662971dad798.png)
-
