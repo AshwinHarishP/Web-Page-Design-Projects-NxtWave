@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    background-size: cover;
+    height: 139vh;
+    padding: 20px;
+}
+
+.Card {
+    background-color: #000000e6;
+    border-radius: 20px;
+    height: 180px;
+    padding: 20px;
+}
+
+.heading {
+
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 24px;
+}
+
+.paragraph {
+    font-size: 17px;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.price {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.button {
+    text-align: center;
+    height: 40px;
+    width: 140px;
+    border-radius: 10px;
+    border-width: 0px;
+    font-family: "Roboto";
+
+}
+
+.Button {
+    text-align: center;
+    margin: 30px;
+}
