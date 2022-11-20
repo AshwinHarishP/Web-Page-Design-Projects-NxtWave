@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.Overall-background {
+    background-color: white;
+}
+
+.First-card {
+    background-color: white;
+    padding: 10px;
+}
+
+.First-card-paragraph {
+    font-family: "Roboto";
+    font-size: 23px;
+    color: #3D4A55;
+
+}
+
+.First-card-button {
+    border-radius: 10px;
+}
+
+.First-card-image {
+    height: 130px;
+    width: 160px;
+}
+
+.Second-card {
+    margin: 10px;
+    background-color: #0967d219;
+    border-radius: 10px;
+    height: 125px;
+}
+
+.Second-card-image {
+    height: 50px;
+    width: 65px;
+    margin: 15px;
+}
+
+.Second-card-common {
+    padding: 6px;
+}
+
+.Second-card-heading {
+    font-size: 20px;
+    color: #3D4A55;
+}
+
+.Second-card-paragraph {
+    color: #707070;
+}
+
+.Subheading {
+    margin: 11px;
+    color: #3D4A55;
+    font-size: 21px;
+}
+
+.Third-card-common {
+    margin: 15px;
+    border-radius: 15px;
+    height: 110px;
+    width: 100px;
+}
+
+.Third-card1 {
+    background-color: #3ebd93;
+}
+
+.Third-card-image-common {
+    padding: 12px;
+    height: 80px;
+}
+
+.Third-card-image-common {
+    color: #ffffff;
+    text-align: center;
+    font-size: 12px;
+    margin: -3px;
+    font-weight: 500;
+}
+
+.Third-card2 {
+    background-color: #e668a7;
+}
+
+.Third-card3 {
+    background-color: #a368fc;
+}
+
+.Fourth-card {
+    padding: 15px;
+    margin: 10px;
+    background-color: #FDEAEC;
+    border-radius: 10px;
+}
+
+.Fourth-card-image {
+    height: 60px;
+    margin: 10px;
+
+}
+
+.Fourth-card-heading {
+    margin: 8px;
+    font-size: 20px;
+    color: #3D4A55;
+}
+
+.Fourth-card-paragraph {
+    margin: 10px;
+    color: #707070;
+}
+
+.Fourth-card-button {
+    margin: 10px;
+    border-radius: 10px;
+}
