@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+    padding: 25px;
+}
+
+.Top-card {
+    border-radius: 20px;
+}
+
+.Common {
+    margin-top: 7px;
+}
+
+.Finding-nemo {
+    padding: 4px;
+    margin: 4px;
+    color: #ffffff;
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-left: -2px;
+}
+
+.Button {
+    font-family: "Roboto";
+    text-align: center;
+    border-radius: 7px;
+    margin: 10px;
+    margin-right: -1px;
+    color: #ff8348;
+    font-size: 14px;
+}
+
+.Paragraph {
+    font-family: "Roboto";
+    margin-left: -2px;
+    padding: 4px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.Similar-movies {
+    font-family: "Roboto";
+    color: #ffffff;
+    padding: 4px;
+    margin-left: -2px;
+    font-size: 20px;
+}
+
+.Image-common {
+    margin: 4px;
+    margin-top: -15px;
+}
